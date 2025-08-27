@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opensearch-py
+sentence-transformers
+numpy
+pydantic
+python-dotenv
+rich
+ragas
+trulens-eval
+deepeval
