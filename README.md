@@ -177,11 +177,6 @@ You can let OpenSearch do the fusion:
 
 MIT
 
-```
-
-Want me to drop this straight into a `README.md` plus add a short `LICENSE` file template you can commit?
-::contentReference[oaicite:25]{index=25}
-```
 
 [1]: https://opensearch.org/blog/building-effective-hybrid-search-in-opensearch-techniques-and-best-practices/?utm_source=chatgpt.com "Building effective hybrid search in OpenSearch"
 [2]: https://arxiv.org/abs/2212.10496?utm_source=chatgpt.com "Precise Zero-Shot Dense Retrieval without Relevance Labels"
